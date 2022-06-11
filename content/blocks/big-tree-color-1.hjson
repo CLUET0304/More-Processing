@@ -1,6 +1,6 @@
 {
   type: TreeBlock
-  name: Большое дерево (Цвет 1)
+  name: Big Tree (Colour 1)
   description: ...
   health: 10
   category: effect
