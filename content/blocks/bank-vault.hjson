@@ -1,6 +1,6 @@
 {
   type: StorageBlock
-  name: Банковское хранилище
+  name: Bank Vault
   description: ...
   size: 5
   health: 600
