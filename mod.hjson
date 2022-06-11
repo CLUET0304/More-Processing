@@ -1,0 +1,11 @@
+{
+  name: kr-rp
+  displayName: "RolePlay"
+  version: "1.0"
+  description:
+    '''
+    A mod to create Role-play Maps
+    '''
+  author: "[green] CLUET"
+  minGameVersion: "117"
+}
