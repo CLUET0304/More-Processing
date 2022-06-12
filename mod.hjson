@@ -6,7 +6,8 @@
     '''
     A mod that adds more processing of materials in game.
 Currently WIP, Balancing changes required,so new ideas of balancing
-    '''and Content is appreciated
+ and Content is appreciated.
+    '''
   author: "[green] CLUET"
   minGameVersion: "117"
 }
