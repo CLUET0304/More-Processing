@@ -1,11 +1,12 @@
 {
-  name: Role-play
-  displayName: "RolePlay"
+  name: More Processing
+  displayName: "More Processing"
   version: "1.0"
   description:
     '''
-    A mod to create Role-play Maps
-    '''
+    A mod that adds more processing of materials in game.
+Currently WIP, Balancing changes required,so new ideas of balancing
+    '''and Content is appreciated
   author: "[green] CLUET"
   minGameVersion: "117"
 }
