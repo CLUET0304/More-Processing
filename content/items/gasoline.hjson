@@ -1,0 +1,7 @@
+name: "Gasoline"
+description: "Highly Flammable gas, used for various purposes.Not as effective as LPG"
+cost: 0
+color: "ffbf00"
+flammability: 0.9
+explosiveness: 0.6
+viscosity:1.5
