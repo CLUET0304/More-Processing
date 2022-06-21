@@ -3,6 +3,10 @@ type: "GenericCrafter"
 description: "Purifies Crude-oil for Refining"
 liquidCapacity: 50
 outputLiquid: crude-oil/0.25
+outputItem: {
+            sand/0.25
+            coal/0.1
+            scrap/0.15
 hasPower: true
 size: 2
 hasLiquids: true
