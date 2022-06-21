@@ -20,4 +20,7 @@ requirements: [
 ]
 category: "crafting"
 research: "melter"
-outputLiquid: crude-oil/0.3
+outputLiquid: {
+           crude-oil/0.3
+           gasoline/0.5
+}
