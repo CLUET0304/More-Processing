@@ -2,12 +2,8 @@ name: "Gasoline Refinery [1]"
 type: "GenericCrafter"
 description: "Vaporises Gasoline from Crude-oil"
 liquidCapacity: 70
-outputItem: {
-	item: sand
-	amount: 0.15
-	}
 outputLiquid: {
-	liquid: gasoline
+	liquid: Gasoline
 	amount: 0.5
 	}
 size: 2
