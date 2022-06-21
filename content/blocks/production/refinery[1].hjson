@@ -3,8 +3,7 @@ type: "GenericCrafter"
 description: "Vaporises Gasoline from Crude-oil"
 liquidCapacity: 70
 outputLiquid: {
-	liquid: Gasoline
-	amount: 0.5
+	liquid: gasoline/0.25
 	}
 size: 2
 hasPower: true
@@ -14,8 +13,7 @@ updateEffect: smeltsmoke
 consumes: {
 	power: 1.6
 	liquid: {
-			liquid: oil
-			amount: 1.0
+			liquid: oil/0.1
 		}
 	}
 requirements: [
