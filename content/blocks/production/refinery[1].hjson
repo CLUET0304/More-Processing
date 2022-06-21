@@ -1,26 +1,24 @@
 name: "Gasoline Refinery [1]"
-type: "GenericSmelter"
-health: 650
-description: "The most basic Refinery. Vaporises Gasoline out of Crude-oil"
+type: "GenericCrafter"
+description: "Vaporises Gasoline from Crude-oil"
+liquidCapacity: 15
+outputLiquid: crude-oil/1
+gasoline/0.5
 hasPower: true
 size: 3
 hasLiquids: true
-craftTime: 1
+craftTime: 10
 updateEffect: "smeltsmoke"
-liquidCapacity: 30
 consumes: {
-	liquid: crude-oil/0.5
-	power: 1
+	power: 1.0
+	liquid: crude-oil/1
 }
 requirements: [
-	titanium/20
-	lead/100
-	graphite/30
-	silicon/50
+	silicon/60
+	titanium/10
+	copper/120
 ]
 category: "crafting"
 research: "melter"
-outputLiquid: {
-           crude-oil/0.3
-           gasoline/0.5
-}
+ambientSound: "machine"
+ambientSoundVolume: 0.5
