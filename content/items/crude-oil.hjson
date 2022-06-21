@@ -1,0 +1,7 @@
+name: "Diesel canister"
+description: "Better [black]Oil"
+cost: 0
+color: "050403"
+flammability: 0.6
+explosiveness: 0.6
+viscosity:0.7
