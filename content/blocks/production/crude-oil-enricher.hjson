@@ -1,22 +1,21 @@
-name: "Crude-oil Enricher"
+ name: "Diesel mixer"
 type: "GenericCrafter"
-description: "Purifies Crude-oil for Refining"
-liquidCapacity: 30
-outputLiquid: crude-oil/0.5
-outputItem: sand/0.25
+description: "Mixes great fuel"
+liquidCapacity: 50
+outputLiquid: crude-oil/3.34
 hasPower: true
-size: 2
+size: 3
 hasLiquids: true
 craftTime: 10
 updateEffect: "smeltsmoke"
 consumes: {
 	power: 0.8
-	liquid: oil/0.5
+	liquid: oil/0.25
 }
 requirements: [
 	copper/50
 	lead/40
-	silicon/30
+	silicon/35
 ]
 category: "crafting"
 research: "melter"
