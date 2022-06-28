@@ -1,8 +1,8 @@
- name: "Diesel mixer"
+name: "Diesel mixer"
 type: "GenericCrafter"
-description: "Mixes great fuel"
+description: "Purifies Crude-oil for Refining"
 liquidCapacity: 50
-outputLiquid: crude-oil/3.34
+outputLiquid: crude-oil/1
 hasPower: true
 size: 3
 hasLiquids: true
@@ -10,7 +10,7 @@ craftTime: 10
 updateEffect: "smeltsmoke"
 consumes: {
 	power: 0.8
-	liquid: oil/0.25
+	liquid: oil/1
 }
 requirements: [
 	copper/50
